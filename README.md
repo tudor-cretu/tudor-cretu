@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tudor-cretu&label=Profile%20views&color=0e75b6&style=flat" alt="tudor-cretu" /> </p>
 
-- 📫 How to reach me **tudor.cretu30@gmail.com**
+- 📫 **tudor.cretu30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
