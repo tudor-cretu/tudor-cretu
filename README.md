@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tudor</h1>
-<h3 align="center"> Computer Science Student</h3>
 <p align="left"> I am a Computer Science & Engineering student, passionate about developing innovative solutions that can make a positive impact on the world. I am always eager to learn new technologies and tools, and I enjoy collaborating with others who share my enthusiasm for technology.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tudor-cretu&label=Profile%20views&color=0e75b6&style=flat" alt="tudor-cretu" /> </p>
 
