@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Tudor</h1>
-<p align="left"> CS major passionate about DevOps & Product Development </p>
+<p align="left"> CS major | Working in Support + DevOps | Passionate about Product Development </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tudor-cretu&label=Profile%20views&color=0e75b6&style=flat" alt="tudor-cretu" /> </p>
 
 - 📫 **tudor.cretu30@gmail.com**
