@@ -10,9 +10,3 @@
   </p>
 </div>
 
-<div align="center"> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tudor-cretu&show_icons=true&hide_border=true&theme=transparent" alt="Tudor's GitHub statistics" /> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudor-cretu&layout=compact&hide_border=true&theme=transparent" alt="Tudor's most used languages" /> 
-</div>
-
-
