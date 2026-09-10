@@ -1,7 +1,7 @@
 <div align="center">
 
   # Howdy 👋, I'm Tudor
-  ### CS major | Working in Support + DevOps | Passionate about Product Development </p>
+  ### CSE Major | DevOps Engineer | Passionate about Product Development </p>
   
   <p> 
     <a href="mailto:tudor.cretu30@gmail.com"> <img src="https://img.shields.io/badge/Email-tudor.cretu30%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> 
